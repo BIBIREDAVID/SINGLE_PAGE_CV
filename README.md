@@ -57,6 +57,7 @@ You can connect with Bibiresanmi Oluwagbenga David through the following platfor
 - **WhatsApp**: [Text Me on the Green App](https://wa.me/2347015791813)
 
 ## Link to the project: https://bibiresanmidavid-cv.netlify.app/
+## Github Link: https://github.com/BIBIREDAVID/SINGLE_PAGE_CV
 
 ## Contributing
 Contributions are welcome! Feel free to fork this repository and submit pull requests for improvements or additions.
