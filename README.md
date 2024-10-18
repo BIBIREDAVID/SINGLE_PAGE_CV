@@ -56,6 +56,8 @@ You can connect with Bibiresanmi Oluwagbenga David through the following platfor
 - **Twitter**: [Reach Me On X](https://x.com/bibiresanmi_)
 - **WhatsApp**: [Text Me on the Green App](https://wa.me/2347015791813)
 
+## Link to the project: https://bibiresanmidavid-cv.netlify.app/
+
 ## Contributing
 Contributions are welcome! Feel free to fork this repository and submit pull requests for improvements or additions.
 
